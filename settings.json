@@ -1,7 +1,7 @@
 {
   "public": {
     "facebook": {
-      "appId": "1422115394515494"
+      "appId": ""
     },
     "admob": {
       "adId": ""
@@ -10,25 +10,25 @@
       "senderId": ""
     },
     "google":{
-      "clientId": "99912848077-2k1997p6473uf0uh72d6ug0vvelprt94.apps.googleusercontent.com"
+      "clientId": ""
     }
   },
   "facebook": {
-    "secret": "c1bce02e74e5071d876edbe601e735b5"
+    "secret": ""
   },
   "google": {
-      "secret": "95zfKIqcD8IOZuWSPOx7xWoO"
+      "secret": ""
   },
   "sendgrid": {
     "apiKey": ""
   },
   "mailgun": {
-    "username": "postmaster@sandbox25c370aff1ca42c18694a8d686af073f.mailgun.org",
-    "password": "3941d222e4e0601b505e21762d030ebf"
+    "username": "",
+    "password": ""
   },
   "here": {
-    "appId": "I7UkBJ1Gj7SHnKCSydjE",
-    "appCode": "tJqGAdw0uTzKxYg9OD701g"
+    "appId": "",
+    "appCode": ""
   },
   "fcm": {
     "serverKey": ""
