@@ -1,6 +1,6 @@
 {
-  "name": "tapshop",
-  "private": true,
+  "name": "tokenswap",
+  "private": false,
   "scripts": {
     "start": "meteor run"
   },
